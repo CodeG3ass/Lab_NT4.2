@@ -71,8 +71,6 @@ Log файлы должны быть разные для каждого сайт
 
 ![image](https://user-images.githubusercontent.com/92590831/145878949-da54a3a5-d76f-493d-ae09-229c8cd2cf61.png)
 
-Создать самоподписанный сертификат для сайтов A1.com, B1.com, C1.com 
-
 ![image](https://user-images.githubusercontent.com/92590831/145879485-68677d98-e012-42ac-bd7c-4e0d7de74afd.png)
 
 ![image](https://user-images.githubusercontent.com/92590831/145879638-2e18ee2a-8446-4d29-809e-7e0abb891aca.png)
@@ -84,6 +82,15 @@ Log файлы должны быть разные для каждого сайт
 ![image](https://user-images.githubusercontent.com/92590831/145880006-dbd12375-8b35-42d7-bab1-1a06f24440d9.png)
 
 ![image](https://user-images.githubusercontent.com/92590831/145880046-8bfabae2-5094-4a3f-8b66-510c12bd5f11.png)
+
+Создать самоподписанный сертификат для сайтов A1.com, B1.com, C1.com 
+
+![image](https://user-images.githubusercontent.com/92590831/145884298-d2ffb916-3961-4254-9bcd-38d8df92133a.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145888165-3643bbc4-9240-4feb-8eb8-b571dfe71d06.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145888179-dbcc00c3-1f25-4267-9abe-cc180669b1b0.png)
+
 
 Организовать работу Apache с по протоколу HTTPS (SSL) 
 
