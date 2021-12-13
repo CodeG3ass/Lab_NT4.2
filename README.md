@@ -67,17 +67,38 @@ Log файлы должны быть разные для каждого сайт
 
 Настройка SSL сертификатов 
 
+![image](https://user-images.githubusercontent.com/92590831/145878685-2c96a638-42a6-420d-93da-66a45cd79d04.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145878949-da54a3a5-d76f-493d-ae09-229c8cd2cf61.png)
+
 Создать самоподписанный сертификат для сайтов A1.com, B1.com, C1.com 
+
+![image](https://user-images.githubusercontent.com/92590831/145879485-68677d98-e012-42ac-bd7c-4e0d7de74afd.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145879638-2e18ee2a-8446-4d29-809e-7e0abb891aca.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145879810-c0e96cc0-e054-48a0-b413-33633d3476bb.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145879972-ef4e1cea-a17b-4bc8-b68e-f052a0c89037.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145880006-dbd12375-8b35-42d7-bab1-1a06f24440d9.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145880046-8bfabae2-5094-4a3f-8b66-510c12bd5f11.png)
 
 Организовать работу Apache с по протоколу HTTPS (SSL) 
 
 Перенаправление HTTP в HTTPS для Apache 
 
+![image](https://user-images.githubusercontent.com/92590831/145881816-ceebfbea-07a8-4305-bd0e-d38be0a2b51e.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145883839-f20fe15f-3892-43ef-9ec4-b1f169de2afc.png)
+
+![image](https://user-images.githubusercontent.com/92590831/145883856-9291c48d-4ac2-461c-89c0-e7b39502e4b5.png)
+
  
 
 Дополнительные задания: 
 
- 
 
 Просмотреть содержимое сертификата 
 
@@ -88,28 +109,3 @@ Log файлы должны быть разные для каждого сайт
 Перевести Nginx на работу  с использование самоподписанного сертификата SSL 
 
 Настроить отправку файлов проекта и конфигурации на GitHub 
-
-![image](https://user-images.githubusercontent.com/92590831/145730644-365bc692-ecab-4d5c-9ca4-8ed047d7f5d3.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145730659-0dbca7c7-b519-4750-9b9b-15cef17d0e0c.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145730751-d93b178e-64de-412e-a61e-da81c86584fb.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145730830-afff9e84-c906-4502-b2c6-f61f7c008c27.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145730915-69f28ed5-bf23-4129-a750-384d5193d089.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145730930-1a41e861-c5d6-4505-a2f4-00712a24f597.png)
-
-
-![image](https://user-images.githubusercontent.com/92590831/145870008-2a98ee78-0d7c-440c-824e-f4d8c6440004.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145871000-cd0d6abf-7cfe-497f-971f-332b02f3b825.png)
-
- ![image](https://user-images.githubusercontent.com/92590831/145730040-d5c04511-82cb-4789-bcb7-6f3f1441ffe0.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145730197-df8626ca-2a95-4e59-bbb3-f3a3966809a2.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145730273-66cac6fc-24b3-43b1-a389-5e57c715e3e4.png)
-
-![image](https://user-images.githubusercontent.com/92590831/145730308-c51fe972-c618-4d47-ad4a-c1763d03afb1.png)
